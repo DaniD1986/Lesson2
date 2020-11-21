@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    padding: 0; 
+}
+   h1
+   {
+
+	color: rgb(0, 0, 0);
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+}
+ol
+{
+    color: rgb(0, 0, 0);
+	font-size: 25px;
+	font: weight 200;;
+    text-align: center;
+}
